@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igsuraj" alt="igsuraj" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
-
 - 🌱 I’m currently learning **React and Backend Development**
 
 - 👯 I’m looking to collaborate on **Full Stack Development App**
-
-- 🤝 I’m looking for help with [Social Media App BY React](social-media-by-react-2uzr0c06r.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://igsuraj.github.io/suraj-website/](https://igsuraj.github.io/suraj-website/)
 
